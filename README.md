@@ -22,6 +22,14 @@ I'm **Arshdeep Randhawa**, an experienced data-driven problem solver with over 6
 - **Tools Used**: Tableau 
 - [View Dashboard](https://public.tableau.com/app/profile/arshdeep.randhawa6351/viz/NetflixAnalysis_17389690500210/Dashboard1)
 
+### **Sales Performance Analysis (SQL)**
+
+- **Project Overview**: This project focuses on analyzing sales performance using **SQL** with complex queries to rank salespeople, track total sales, calculate running totals, and generate territory-based performance insights. 
+- **Key Insights**: Identified top salesperson quarterly and by territory.
+- **Tools Used**: SQL 
+- [Sales Performance Analysis](https://github.com/arshrandhawa/portfolio/blob/main/SQL/SalesPerformanceViewByArsh.sql)
+
+
 ## 🚀 Professional Experience
 
 ### **Senior Software Engineer - Data Lead** (Microchip Technology, 2023 - Present)
