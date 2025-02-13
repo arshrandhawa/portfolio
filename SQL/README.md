@@ -1,6 +1,6 @@
-# Sales Performance Analysis – Advanced SQL Queries
+# Advanced SQL Queries
 
-## Project Overview
+## [Sales Performance Analysis](https://github.com/arshrandhawa/portfolio/blob/main/SQL/SalesPerformanceViewByArsh.sql) – Project Overview 
 This project focuses on analyzing sales performance using **SQL** with complex queries to rank salespeople, track total sales, calculate running totals, and generate territory-based performance insights. It is designed to handle large datasets efficiently, leveraging **Common Table Expressions (CTEs), ranking functions, and advance SQL techniques** for optimization.
 
 ## Key Features & Insights
