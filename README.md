@@ -1,4 +1,4 @@
-# Data Analyst & Software Engineer Portfolio
+# Data Analyst Portfolio
 
 ## 📌 About Me
 
