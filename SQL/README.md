@@ -7,7 +7,7 @@ This folder contains various **SQL projects**, focusing on data analysis, perfor
 ### 📊 **Sales Performance Analysis (SQL)**  
 - **Objective**: Analyzed sales performance using SQL queries to track top salespeople, calculate running totals, and generate territory-based insights.  
 - **Key Insights**: Identified top-performing salespeople quarterly and by region.  
-- **Technologies Used**: SQL (PostgreSQL/MySQL/SQL Server)  
+- **Technologies Used**: SQL (SQL Server)  
 - [View Project](https://github.com/arshrandhawa/portfolio/tree/main/SQL/SalesPerformanceAnalysis/SalesPerformanceViewByArsh.sql)  
 
 
