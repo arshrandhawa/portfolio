@@ -34,7 +34,7 @@ I'm **Arshdeep Randhawa**, an experienced data-driven problem solver with over 6
 - **Project Overview**: This project focuses on analyzing sales performance using **SQL** with complex queries to rank salespeople, track total sales, calculate running totals, and generate territory-based performance insights. 
 - **Key Insights**: Identified top salesperson quarterly and by territory.
 - **Tools Used**: SQL 
-- [Sales Performance Analysis](https://github.com/arshrandhawa/portfolio/blob/main/SQL/SalesPerformanceViewByArsh.sql)
+- [View Project](https://github.com/arshrandhawa/portfolio/tree/main/SQL/SalesPerformanceAnalysis/SalesPerformanceViewByArsh.sql)  
 
 
 ## 🚀 Professional Experience
