@@ -2,7 +2,7 @@
 
 ## 📌 About Me
 
-I'm **Arshdeep Randhawa**, an experienced data-driven problem solver with over 6 years of expertise in business intelligence engineering. Proficient in extracting actionable insights from various data sources, I have a demonstrated track record of improving efficiency by 40% through automated data pipelines. Skilled at enabling data-driven decision-making with clear and impactful visualizations.
+I'm **Arshdeep Randhawa**, an experienced data-driven problem solver with over 6 years of expertise in business intelligence engineering. Proficient in extracting actionable insights from various data sources, I have a demonstrated track record of improving efficiency by 40% through automated data pipelines. Skilled at enabling data-driven decision-making with clear and impactful visualizations. [Get PDF Resume](https://github.com/arshrandhawa/portfolio/blob/main/Arshdeep_Randhawa_Resume.pdf)
 
 ## 🛠️ Tools & Technologies
 
