@@ -15,6 +15,13 @@ I'm **Arshdeep Randhawa**, an experienced data-driven problem solver with over 6
 
 ## 📊 Featured Project
 
+### **Ticketmasters Event Finder API (FastAPI)**  
+
+- **Objective**: Developed a FastAPI-based application that fetches and displays event details from the Ticketmaster API.  
+- **Key Features**: Users can search for events by city, retrieve event details (venue, date, price range), and display results in a structured format using **pandas**.  
+- **Technologies Used**: FastAPI, Requests, Pandas, Python-dotenv, Uvicorn  
+- [View Repository](https://github.com/arshrandhawa/portfolio/TicketmastersEventFinderAPI)  
+
 ### **Netflix Data Dashboard (Tableau)**
 
 - **Objective**: Built an interactive dashboard analyzing Netflix content trends, genres, and regional distributions.
