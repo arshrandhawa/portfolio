@@ -4,34 +4,24 @@
 # In[1]:
 
 
-import subprocess
-import sys
+#!/usr/bin/env python
+# coding: utf-8
 
-# List of required packages
-required_packages = [
-    "fastapi",
-    "requests",
-    "pandas",
-    "python-dotenv"
-]
+import os
+from dotenv import load_dotenv
+from fastapi import FastAPI
+import requests
+import pandas as pd
 
-# Install missing packages
-for package in required_packages:
-    try:
-        __import__(package)
-    except ImportError:
-        subprocess.check_call([sys.executable, "-m", "pip", "install", package])
 
 
 # In[ ]:
 
 
-import os
-from dotenv import load_dotenv
-
 # Change working directory to the correct one
-project_path = os.path.join(os.getcwd(), "TicketmastersEventFinderAPI")
-os.chdir(project_path)
+project_path = os.getcwd()  # Get the current working directory inside the container
+print(f"Project Path: {project_path}")  # Debugging
+
 
 # Load environment variables
 load_dotenv()
@@ -49,7 +39,7 @@ import requests
 
 app = FastAPI()
 
-API_KEY = secret_key
+API_KEY = SECRET_KEY
 BASE_URL = "https://app.ticketmaster.com/discovery/v2/events.json"
 
 @app.get("/events/")
