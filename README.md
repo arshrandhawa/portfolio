@@ -12,6 +12,7 @@ I'm **Arshdeep Randhawa**, an experienced data-driven problem solver with over 6
 - **Databases**: SQL Server, MySQL, Oracle, Postgresql, NoSQL, Microsoft Access
 - **Data Warehousing & Governance**: Performance Tuning, Data Warehousing, Data Governance
 - **Version Control & Collaboration**: Git, Bitbucket, Jira
+- **Containerization & Orchestration**: Docker
 
 ## 📊 Featured Project
 
@@ -19,7 +20,7 @@ I'm **Arshdeep Randhawa**, an experienced data-driven problem solver with over 6
 
 - **Objective**: Developed a FastAPI-based application that fetches and displays event details from the Ticketmaster API.  
 - **Key Features**: Users can search for events by city, retrieve event details (venue, date, price range), and display results in a structured format using **pandas**.  
-- **Technologies Used**: FastAPI, Requests, Pandas, Python-dotenv, Uvicorn  
+- **Technologies Used**: FastAPI, Requests, Pandas, Python-dotenv, Uvicorn, Docker
 - [View Repository](https://github.com/arshrandhawa/portfolio/tree/main/Python/TicketmastersEventFinderAPI)
 
 ### **Netflix Data Dashboard (Tableau)**
