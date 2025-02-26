@@ -1,3 +1,4 @@
+
 # 🎟️ TicketmastersEventFinderAPI
 
 ## 📌 Project Overview
@@ -10,12 +11,14 @@ TicketmastersEventFinderAPI is a Python-based API that interacts with the Ticket
 - Uses **FastAPI** for efficient API handling
 - Loads API keys securely from a `.env` file
 - Automatically installs required dependencies if missing
+- **Docker support** for easy deployment and containerization
 
 ## 🛠️ Technologies Used
 - **FastAPI** - High-performance API framework
 - **Requests** - For making API calls to Ticketmaster
 - **Pandas** - Data manipulation and formatting
 - **Python-dotenv** - For managing environment variables
+- **Docker** - For containerization and easy deployment
 
 ## 🔑 Setup & Installation
 ### **1. Clone the Repository**
@@ -24,7 +27,7 @@ git clone https://github.com/arshrandhawa/portfolio/tree/main/Python/Ticketmaste
 cd TicketmastersEventFinderAPI
 ```
 
-### **2. Create a Virtual Environment**
+### **2. Create a Virtual Environment (Optional)**
 ```bash
 python -m venv venv
 source venv/bin/activate  # On macOS/Linux
@@ -32,7 +35,7 @@ venv\Scripts\activate  # On Windows
 ```
 
 ### **3. Install Dependencies**
-You can skip this step if you're running the script, as it will automatically install any missing dependencies. However, if you prefer to manually install them, you can use the following command:
+You can skip this step since there is dockerfile that you can run to load all the dependencies. However, if you prefer to manually install them, you can use the following command:
 ```bash
 pip install fastapi requests pandas python-dotenv uvicorn
 ```
@@ -40,18 +43,30 @@ pip install fastapi requests pandas python-dotenv uvicorn
 ### **4. Set Up Environment Variables**
 1. Create a `.env` file in the project root.
 2. Add your **Ticketmaster API Key**:
-```
-SECRET_KEY=your_actual_ticketmaster_api_key
-```
+   ```
+   SECRET_KEY=your_actual_ticketmaster_api_key
+   ```
 
 ### **5. Run the API**
+You can run the API locally using `uvicorn`:
 ```bash
 uvicorn main:app --reload
 ```
-
 Your API will now be running at: `http://127.0.0.1:8000`
 
-### **6. Test API Endpoints**
+### **6. Using Docker**
+To run the API in a Docker container (make sure you have Docker downloaded and installed), follow these steps:
+1. **Build the Docker image**:
+   ```bash
+   docker build -t ticketmasters-event-finder-api .
+   ```
+2. **Run the Docker container**:
+   ```bash
+   docker run -d -p 8000:8000 --env-file .env ticketmasters-event-finder-api
+   ```
+Your API will now be accessible at: `http://127.0.0.1:8000`
+
+### **7. Test API Endpoints**
 Open your browser and visit:
 ```bash
 http://127.0.0.1:8000/docs
@@ -100,4 +115,3 @@ print_events_pandas(events, city_name)  # Display output using pandas
 - **Email**: [arshdip.randhawa@gmail.com](mailto:arshdip.randhawa@gmail.com)
 
 Thank you for visiting my portfolio! Feel free to reach out for collaborations or opportunities.
-
