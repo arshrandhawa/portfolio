@@ -16,12 +16,24 @@ I'm **Arshdeep Randhawa**, an experienced data-driven problem solver with over 6
 
 ## 📊 Featured Project
 
+### **LinkedIn Auto Post Project (Python, FastAPI, and Github Actions)**
+
+- **Objective**: Developed an automation system that schedules and posts content to LinkedIn at defined intervals, ensuring consistent engagement and networking without manual effort.
+- **Key Features**: 
+  - Automated LinkedIn posts using **GitHub Actions** and **Python**.
+  - **JSON-based content storage** for easy updates and management of posts.
+  - Secure handling of credentials via **GitHub Secrets**.
+  - Detailed **logging and error handling** to track post success and failures.
+  - Configurable scheduling for weekly and biweekly posts via **GitHub Actions** with cron jobs.
+- **Technologies Used**: Python, GitHub Actions, JSON, Requests, dotenv, GitHub Secrets.
+- [View Repository](https://github.com/arshrandhawa/linkedInAutoPost)
+
 ### **Ticketmasters Event Finder API (FastAPI)**  
 
 - **Objective**: Developed a FastAPI-based application that fetches and displays event details from the Ticketmaster API.  
 - **Key Features**: Users can search for events by city, retrieve event details (venue, date, price range), and display results in a structured format using **pandas**.  
 - **Technologies Used**: FastAPI, Requests, Pandas, Python-dotenv, Uvicorn, Docker
-- [View Repository](https://github.com/arshrandhawa/portfolio/tree/main/Python/TicketmastersEventFinderAPI)
+- [View Repository](https://github.com/arshrandhawa/TicketmastersEventFinderAPI)
 
 ### **Netflix Data Dashboard (Tableau)**
 
@@ -35,7 +47,7 @@ I'm **Arshdeep Randhawa**, an experienced data-driven problem solver with over 6
 - **Project Overview**: This project focuses on analyzing sales performance using **SQL** with complex queries to rank salespeople, track total sales, calculate running totals, and generate territory-based performance insights. 
 - **Key Insights**: Identified top salesperson quarterly and by territory.
 - **Tools Used**: SQL 
-- [View Project](https://github.com/arshrandhawa/portfolio/tree/main/SQL/SalesPerformanceAnalysis/SalesPerformanceViewByArsh.sql)  
+- [View Project](https://github.com/arshrandhawa/SalesPerformanceAnalysis)  
 
 
 ## 🚀 Professional Experience
