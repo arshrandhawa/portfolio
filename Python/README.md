@@ -8,7 +8,7 @@ This folder contains various **Python projects**, ranging from API development t
 - **Objective**: Fetches and displays event details from the Ticketmaster API using FastAPI.  
 - **Key Features**: Search events by city, retrieve event details, and display structured data with **pandas**.  
 - **Technologies Used**: FastAPI, Requests, Pandas, Python-dotenv, Uvicorn  
-- [View Repository](https://github.com/arshrandhawa/portfolio/tree/main/Python/TicketmastersEventFinderAPI)
+- [View Repository](https://github.com/arshrandhawa/TicketmastersEventFinderAPI/tree/main)
 
 Each project has its own folder with a dedicated **README** for setup and usage instructions.  
 
