@@ -4,7 +4,7 @@ This folder will contain a collection of machine learning projects as I build an
 
 ## 🚀 Projects
 
-- `churn-rate-prediction/`: Building a classification model to predict customer churn using structured data.
+- [Churn Rate Model](https://github.com/arshrandhawa/ml-churn-rate-model): Building a classification model to predict customer churn using structured data.
 
 ## 🛠 Tools & Libraries (Planned)
 
