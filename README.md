@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+# Full Stack Data Developer Portfolio
 
 ## 📌 About Me
 
