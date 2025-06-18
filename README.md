@@ -62,31 +62,6 @@ Docker, Excel (Power Query, PivotTables), JSON, dotenv, Uvicorn
 - **Tools Used**: SQL 
 - [View Project](https://github.com/arshrandhawa/SalesPerformanceAnalysis)  
 
-
-## 🚀 Professional Experience
-
-### **Senior Software Engineer - Data Lead** (Microchip Technology, 2023 - Present)
-
-- Constructed resilient data flows for platform unification, improving operational workflow.
-- Automated data extraction, transformation, and loading pipelines to enhance operational efficiency.
-- Executed exploratory data analysis aimed at optimizing processes and enhancing strategic decision-making.
-- Developed data visualizations in Tableau and Power BI, featuring KPIs, time series analyses, and cost-saving trend charts.
-
-### **Software Engineer - II: Data Lead** (Microchip Technology, 2019 - 2023)
-
-- Spearheaded projects focused on data consolidation and report production, boosting accuracy across all divisions.
-- Transformed complex datasets into actionable insights.
-
-### **Software Engineer - I: Data Lead** (Microchip Technology, 2018 - 2019)
-
-- Supported the development and maintenance of data workflows and reporting tools.
-- Performed data analysis and helped identify areas for process improvement.
-
-## 🎓 Education
-
-- **Master of Science in Business Analytics** – Grand Canyon University, Phoenix, AZ (Summa Cum Laude)
-- **Bachelor of Science in Computer Programming** – Grand Canyon University, Phoenix, AZ (Magna Cum Laude)
-
 ## 📬 Connect With Me
 
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/arshrandhawa11/)
