@@ -6,13 +6,26 @@ I'm **Arshdeep Randhawa**, an experienced data-driven problem solver with over 6
 
 ## 🛠️ Tools & Technologies
 
-- **Programming & Scripting**: Python (Pandas, NumPy), R, SQL, C#, VBA, DAX
-- **Data Visualization**: Tableau (Server, Cloud, Desktop), Power BI, Qlik Sense, Looker
-- **Data Engineering**: SSIS, Azure Data Factory, API Integration
-- **Databases**: SQL Server, MySQL, Oracle, Postgresql, NoSQL, Microsoft Access
-- **Data Warehousing & Governance**: Performance Tuning, Data Warehousing, Data Governance
-- **Version Control & Collaboration**: Git, Bitbucket, Jira
-- **Containerization & Orchestration**: Docker
+**Languages & Scripting**  
+Python (Pandas, NumPy), R, SQL, C#, VBA, DAX
+
+**Data Visualization**  
+Tableau (Server, Cloud, Desktop), Power BI, Looker, Qlik Sense
+
+**Data Engineering & ETL**  
+Azure Data Factory, SSIS, API Integration
+
+**Databases & Storage**  
+SQL Server, MySQL, Oracle, PostgreSQL, NoSQL, Microsoft Access
+
+**Data Warehousing & Governance**  
+Data Modeling, Data Warehousing, Performance Tuning, Data Governance
+
+**Version Control & Workflow**  
+Git, Bitbucket, Jira, GitHub Actions
+
+**Other Tools**  
+Docker, Excel (Power Query, PivotTables), JSON, dotenv, Uvicorn
 
 ## 📊 Featured Project
 
