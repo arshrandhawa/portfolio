@@ -1,66 +1,80 @@
 # Arshdeep’s Data Portfolio
 
-## 📌 About Me
+## Explore My Projects by Category</h2>
 
-I'm **Arshdeep Randhawa**, an experienced data-driven problem solver with over 6 years of expertise in business intelligence engineering. Proficient in extracting actionable insights from various data sources, I have a demonstrated track record of improving efficiency by 40% through automated data pipelines. Skilled at enabling data-driven decision-making with clear and impactful visualizations. [Get PDF Resume](https://github.com/arshrandhawa/portfolio/blob/main/Arshdeep_Randhawa_Resume.pdf)
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="#business-intelligence">
+        <img src="https://img.shields.io/badge/-Business_Intelligence-blue?style=for-the-badge&logo=tableau&scale=4" alt="Business Intelligence">
+      </a>
+    </td>
+    <td align="center">
+      <a href="#data-analyst-projects">
+        <img src="https://img.shields.io/badge/-Data_Analyst-green?style=for-the-badge&logo=sqlite&scale=4" alt="Data Analyst">
+      </a>
+    </td>
+    <td align="center">
+      <a href="#data-engineering">
+        <img src="https://img.shields.io/badge/-Data_Engineering-orange?style=for-the-badge&logo=docker&scale=4" alt="Data Engineering">
+      </a>
+    </td>
+    <td align="center">
+      <a href="#data-science">
+        <img src="https://img.shields.io/badge/-Data_Science-purple?style=for-the-badge&logo=scikit-learn&scale=4" alt="Data Science">
+      </a>
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Tools & Technologies
+## About Me - [PDF Resume](https://github.com/arshrandhawa/portfolio/blob/main/Arshdeep_Randhawa_Resume.pdf)
 
-**Languages & Scripting**  
-Python (Pandas, NumPy), R, SQL, C#, VBA, DAX
+I'm **Arshdeep Randhawa**, a full-stack data developer passionate about turning data into impactful business solutions. With expertise spanning data engineering, analysis, and visualization, I build robust pipelines and intuitive dashboards that streamline processes and empower teams to make confident, data-driven decisions.
 
-**Data Visualization**  
-Tableau (Server, Cloud, Desktop), Power BI, Looker, Qlik Sense
+<h2 align="center">🛠️ Tools & Technologies</h2>
 
-**Data Engineering & ETL**  
-Azure Data Factory, SSIS, API Integration
+<table align="center" width="100%">
+  <tr>
+    <td><strong>Languages & Scripting</strong></td>
+    <td>Python (Pandas, NumPy), R, SQL, C#, VBA, DAX</td>
+  </tr>
+  <tr>
+    <td><strong>Data Visualization</strong></td>
+    <td>Tableau (Server, Cloud, Desktop), Power BI, Looker, Qlik Sense</td>
+  </tr>
+  <tr>
+    <td><strong>Data Engineering & ETL</strong></td>
+    <td>Azure Data Factory, SSIS, API Integration</td>
+  </tr>
+  <tr>
+    <td><strong>Databases & Storage</strong></td>
+    <td>SQL Server, MySQL, Oracle, PostgreSQL, NoSQL, Microsoft Access</td>
+  </tr>
+  <tr>
+    <td><strong>Data Warehousing & Governance</strong></td>
+    <td>Data Modeling, Data Warehousing, Performance Tuning, Data Governance</td>
+  </tr>
+  <tr>
+    <td><strong>Version Control & Workflow</strong></td>
+    <td>Git, Bitbucket, Jira, GitHub Actions</td>
+  </tr>
+  <tr>
+    <td><strong>Other Tools</strong></td>
+    <td>Docker, Excel (Power Query, PivotTables), JSON, dotenv, Uvicorn</td>
+  </tr>
+</table>
 
-**Databases & Storage**  
-SQL Server, MySQL, Oracle, PostgreSQL, NoSQL, Microsoft Access
+## 📂 Portfolio Summary
 
-**Data Warehousing & Governance**  
-Data Modeling, Data Warehousing, Performance Tuning, Data Governance
-
-**Version Control & Workflow**  
-Git, Bitbucket, Jira, GitHub Actions
-
-**Other Tools**  
-Docker, Excel (Power Query, PivotTables), JSON, dotenv, Uvicorn
-
-## 📊 Featured Project
-
-### **LinkedIn Auto Post Project (Python, FastAPI, and Github Actions)**
-
-- **Objective**: Developed an automation system that schedules and posts content to LinkedIn at defined intervals, ensuring consistent engagement and networking without manual effort.
-- **Key Features**: 
-  - Automated LinkedIn posts using **GitHub Actions** and **Python**.
-  - **JSON-based content storage** for easy updates and management of posts.
-  - Secure handling of credentials via **GitHub Secrets**.
-  - Detailed **logging and error handling** to track post success and failures.
-  - Configurable scheduling for weekly and biweekly posts via **GitHub Actions** with cron jobs.
-- **Technologies Used**: Python, GitHub Actions, JSON, Requests, dotenv, GitHub Secrets.
-- [View Repository](https://github.com/arshrandhawa/linkedInAutoPost)
-
-### **Ticketmasters Event Finder API (FastAPI)**  
-
-- **Objective**: Developed a FastAPI-based application that fetches and displays event details from the Ticketmaster API.  
-- **Key Features**: Users can search for events by city, retrieve event details (venue, date, price range), and display results in a structured format using **pandas**.  
-- **Technologies Used**: FastAPI, Requests, Pandas, Python-dotenv, Uvicorn, Docker
-- [View Repository](https://github.com/arshrandhawa/TicketmastersEventFinderAPI)
-
-### **Netflix Data Dashboard (Tableau)**
-
-- **Objective**: Built an interactive dashboard analyzing Netflix content trends, genres, and regional distributions.
-- **Key Insights**: Identified popular genres, release year trends, and country-specific content preferences.
-- **Tools Used**: Tableau 
-- [View Dashboard](https://public.tableau.com/app/profile/arshdeep.randhawa6351/viz/NetflixAnalysis_17389690500210/Dashboard1)
-
-### **Sales Performance Analysis (SQL)**
-
-- **Project Overview**: This project focuses on analyzing sales performance using **SQL** with complex queries to rank salespeople, track total sales, calculate running totals, and generate territory-based performance insights. 
-- **Key Insights**: Identified top salesperson quarterly and by territory.
-- **Tools Used**: SQL 
-- [View Project](https://github.com/arshrandhawa/SalesPerformanceAnalysis)  
+| Category | Project Name | Description | Tech Stack |
+|----------|--------------|-------------|------------|
+| <a href="#business-intelligence"><img src="https://img.shields.io/badge/-Business_Intelligence-blue?style=flat-square&logo=tableau" /></a> | **Netflix Data Dashboard** | Analyzed content trends, genres, and regions | Tableau |
+| <a href="#business-intelligence"><img src="https://img.shields.io/badge/-Business_Intelligence-blue?style=flat-square&logo=tableau" /></a> | **Sales Performance Dashboard** | Dashboard with KPIs and regional trends | SQL, Tableau |
+| <a href="#data-analyst-projects"><img src="https://img.shields.io/badge/-Data_Analyst-green?style=flat-square&logo=sqlite" /></a> | **Sales Performance Analysis** | Ranked reps, tracked totals, territory insights | SQL |
+| <a href="#data-analyst-projects"><img src="https://img.shields.io/badge/-Data_Analyst-green?style=flat-square&logo=sqlite" /></a> | **Cost-Benefit Analysis** *(planned)* | Evaluated ROI of tools and systems | Excel, SQL, Tableau |
+| <a href="#data-engineering"><img src="https://img.shields.io/badge/-Data_Engineering-orange?style=flat-square&logo=docker" /></a> | **LinkedIn Auto Poster** | Scheduled LinkedIn posts via GitHub Actions | Python, FastAPI, GitHub Actions |
+| <a href="#data-engineering"><img src="https://img.shields.io/badge/-Data_Engineering-orange?style=flat-square&logo=docker" /></a> | **Ticketmasters Event Finder API** | Searched & displayed events via FastAPI | FastAPI, Requests, Pandas, Docker |
+| <a href="#data-science"><img src="https://img.shields.io/badge/-Data_Science-purple?style=flat-square&logo=scikit-learn" /></a> | **Customer Churn Prediction** | Modeled churn using Kaggle dataset | Pandas, Scikit-learn, matplotlib |
 
 ## 📬 Connect With Me
 
