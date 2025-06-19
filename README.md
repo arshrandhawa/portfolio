@@ -30,7 +30,7 @@
   </tr>
 </table>
 
-## About Me - [PDF Resume](https://github.com/arshrandhawa/portfolio/blob/main/Arshdeep_Randhawa_Resume.pdf)
+## About Me 
 
 I'm **Arshdeep Randhawa**, a full-stack data developer passionate about turning data into impactful business solutions. With expertise spanning data engineering, analysis, and visualization, I build robust pipelines and intuitive dashboards that streamline processes and empower teams to make confident, data-driven decisions.
 
