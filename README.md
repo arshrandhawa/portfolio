@@ -69,14 +69,14 @@ I'm **Arshdeep Randhawa**, a full-stack data developer passionate about turning 
 
 ## 📂 Portfolio Summary
 
-| Category | Project Name | Description | Tech Stack |
+| Category | Project Name | Description | Tools & Skills |
 |----------|--------------|-------------|------------|
-| <a href="#business-intelligence"><img src="https://img.shields.io/badge/-Business_Intelligence-blue?style=flat-square&logo=tableau" /></a> | **Netflix Data Dashboard** | Analyzed content trends, genres, and regions | Tableau |
-| <a href="#business-intelligence"><img src="https://img.shields.io/badge/-Business_Intelligence-blue?style=flat-square&logo=tableau" /></a> | **HR Analytics Dashboard** | Visualized employee count, attrition, demographics, and satisfaction survey insights including attrition rates, work satisfaction, and travel preferences by gender. | Tableau |
-| <a href="#data-analyst-projects"><img src="https://img.shields.io/badge/-Data_Analyst-green?style=flat-square&logo=sqlite" /></a> | **Sales Performance Analysis** | Ranked reps, tracked totals, territory insights | SQL |
-| <a href="#data-engineering"><img src="https://img.shields.io/badge/-Data_Engineering-orange?style=flat-square&logo=docker" /></a> | **LinkedIn Auto Poster** | Scheduled LinkedIn posts via GitHub Actions | Python, FastAPI, GitHub Actions |
-| <a href="#data-engineering"><img src="https://img.shields.io/badge/-Data_Engineering-orange?style=flat-square&logo=docker" /></a> | **Ticketmasters Event Finder API** | Searched & displayed events via FastAPI | FastAPI, Requests, Pandas, Docker |
-| <a href="#data-science"><img src="https://img.shields.io/badge/-Data_Science-purple?style=flat-square&logo=scikit-learn" /></a> | **Customer Churn Prediction** | Modeled churn using Kaggle dataset | Pandas, Scikit-learn, matplotlib |
+| <a href="#business-intelligence"><img src="https://img.shields.io/badge/-Business_Intelligence-blue?style=flat-square&logo=tableau" /></a> | **[Netflix Data Dashboard](https://github.com/arshrandhawa/BusinessIntelligencePortfolio/blob/main/README.md)** | Analyzed content trends, genres, and regions | Tableau, EDA |
+| <a href="#business-intelligence"><img src="https://img.shields.io/badge/-Business_Intelligence-blue?style=flat-square&logo=tableau" /></a> | **[HR Analytics Dashboard](https://github.com/arshrandhawa/BusinessIntelligencePortfolio/blob/main/README.md)** | Visualized employee count, attrition, demographics, and satisfaction survey insights including attrition rates, work satisfaction, and travel preferences by gender. | Tableau, EDA |
+| <a href="#data-analyst-projects"><img src="https://img.shields.io/badge/-Data_Analyst-green?style=flat-square&logo=sqlite" /></a> | **[Sales Performance Analysis](https://github.com/arshrandhawa/SalesPerformanceAnalysis/blob/main/README.md)** | Ranked reps, tracked totals, territory insights | T-SQL, CTE, Data Analysis |
+| <a href="#data-engineering"><img src="https://img.shields.io/badge/-Data_Engineering-orange?style=flat-square&logo=docker" /></a> | **[LinkedIn Auto Poster](https://github.com/arshrandhawa/linkedInAutoPost/blob/main/README.md)** | Scheduled LinkedIn posts via GitHub Actions | Python, FastAPI, GitHub Actions |
+| <a href="#data-engineering"><img src="https://img.shields.io/badge/-Data_Engineering-orange?style=flat-square&logo=docker" /></a> | **[Ticketmasters Event Finder API](https://github.com/arshrandhawa/TicketmastersEventFinderAPI/blob/main/README.md)** | Searched & displayed events via FastAPI | FastAPI, Requests, Pandas |
+| <a href="#data-science"><img src="https://img.shields.io/badge/-Data_Science-purple?style=flat-square&logo=scikit-learn" /></a> | **[Customer Churn Prediction-on going](https://github.com/arshrandhawa/ml-churn-rate-model/blob/main/README.md)** | Modeled churn using Kaggle dataset | Pandas, Scikit-learn, matplotlib |
 
 ## 📬 Connect With Me
 
