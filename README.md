@@ -1,10 +1,13 @@
 # Arshdeep’s Data Portfolio
 
-## Explore My Projects by Category</h2>
-
 <table align="center">
   <tr>
     <td align="center">
+      <a href="https://github.com/arshrandhawa/portfolio/blob/main/Arshdeep_Randhawa_Resume.pdf" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/-PDF_Resume-555?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF Resume">
+      </a>
+    </td>
+	<td align="center">
       <a href="https://github.com/arshrandhawa/BusinessIntelligencePortfolio/blob/main/README.md">
         <img src="https://img.shields.io/badge/-Business_Intelligence-blue?style=for-the-badge&logo=tableau&scale=4" alt="Business Intelligence">
       </a>
@@ -20,7 +23,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/arshrandhawa/DataScientistPortfolio/blob/main/README.md">
+      <a href="https://github.com/arshrandhawa/DataSciencePortfolio/blob/main/README.md">
         <img src="https://img.shields.io/badge/-Data_Science-purple?style=for-the-badge&logo=scikit-learn&scale=4" alt="Data Science">
       </a>
     </td>
