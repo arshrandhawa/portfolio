@@ -5,7 +5,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="#business-intelligence">
+      <a href="https://github.com/arshrandhawa/BusinessIntelligencePortfolio/blob/main/README.md">
         <img src="https://img.shields.io/badge/-Business_Intelligence-blue?style=for-the-badge&logo=tableau&scale=4" alt="Business Intelligence">
       </a>
     </td>
