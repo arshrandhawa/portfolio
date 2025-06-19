@@ -69,7 +69,6 @@ I'm **Arshdeep Randhawa**, a full-stack data developer passionate about turning 
 | Category | Project Name | Description | Tech Stack |
 |----------|--------------|-------------|------------|
 | <a href="#business-intelligence"><img src="https://img.shields.io/badge/-Business_Intelligence-blue?style=flat-square&logo=tableau" /></a> | **Netflix Data Dashboard** | Analyzed content trends, genres, and regions | Tableau |
-| <a href="#business-intelligence"><img src="https://img.shields.io/badge/-Business_Intelligence-blue?style=flat-square&logo=tableau" /></a> | **Sales Performance Dashboard** | Dashboard with KPIs and regional trends | SQL, Tableau |
 | <a href="#data-analyst-projects"><img src="https://img.shields.io/badge/-Data_Analyst-green?style=flat-square&logo=sqlite" /></a> | **Sales Performance Analysis** | Ranked reps, tracked totals, territory insights | SQL |
 | <a href="#data-analyst-projects"><img src="https://img.shields.io/badge/-Data_Analyst-green?style=flat-square&logo=sqlite" /></a> | **Cost-Benefit Analysis** *(planned)* | Evaluated ROI of tools and systems | Excel, SQL, Tableau |
 | <a href="#data-engineering"><img src="https://img.shields.io/badge/-Data_Engineering-orange?style=flat-square&logo=docker" /></a> | **LinkedIn Auto Poster** | Scheduled LinkedIn posts via GitHub Actions | Python, FastAPI, GitHub Actions |
